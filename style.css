@@ -1,7 +1,3 @@
-*{
-	margin: 10;
-	padding: 10;
-}
 body {
 	background-color: #949494;
 	font-family: "felix titling";
@@ -13,14 +9,15 @@ h1 {
 
 }
 img{
-	border: 6px double #194252;
+	border: 7px double #194252;
 }
 ul{
 	position: absolute;
-	top: 5px;
+	top: 8px;
 	right: 10px;
 	border-bottom: 3px solid;
 	padding-bottom: 2px;
+	font-size: 20px;
 }
 li {
 	display: inline;
@@ -31,9 +28,9 @@ li {
 	float: right;
 	text-align: center;
   	width: 300px;
-  	border: 3px double #643f65;
+  	border: 7px double #643f65;
  	padding: 10px;
-	background-color: #2a7278;
+ 	background-color: rgb(42, 114, 120, 0.3);
  }
 a {
 	text-decoration: none;
