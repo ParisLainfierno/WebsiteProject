@@ -1,0 +1,40 @@
+*{
+	margin: 10;
+	padding: 10;
+}
+body {
+	background-color: #949494;
+	font-family: "felix titling";
+}
+h1 {
+	border-bottom: 3px solid black;
+	width: 30%;
+	font-size: 30px;
+
+}
+img{
+	border: 6px double #194252;
+}
+ul{
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	border-bottom: 3px solid;
+	padding-bottom: 2px;
+}
+li {
+	display: inline;
+	border-right: 1px solid #2d2d2d;
+	padding-right: 2px;
+}
+#div1{
+	float: right;
+	text-align: center;
+  	width: 300px;
+  	border: 3px double #643f65;
+ 	padding: 10px;
+ }
+a {
+	text-decoration: none;
+}
+a:hover{color:white}
