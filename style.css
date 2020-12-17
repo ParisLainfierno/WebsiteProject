@@ -29,13 +29,17 @@ small{
 }
 #div1{
 	float: right;
+	transform: translateY(100px);
 	text-align: center;
-  	width: 300px;
+  	width: 500px;
   	border: 7px double #643f65;
  	padding: 10px;
  	background-color: rgb(42, 114, 120, 0.3);
  }
 a {
 	text-decoration: none;
+}
+iframe {
+	transform: translateY(100px);
 }
 a:hover{color:white}
